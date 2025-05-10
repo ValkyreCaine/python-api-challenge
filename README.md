@@ -4,7 +4,7 @@ Hello and welcome to my Python Api Project for UCI Data Analytics BootCamp!
 
 In my files you will find both notebooks for WeatherPy and VacationPy. In my Output Data sub-folder you will find all of my PNG's for all plots made for WeatherPy and the cities.csv that was generated in my search.
 
-This project aims to answer the question, why does it get hotter towards the equator? Using Citipy and the OpenWeatherMap API I set out to answer that question by running analysies on the relationships between latitude and temperature, humidity, cloudiness, and wind speed. 
+This project aims to answer the question, why does it get hotter towards the equator? Using Citipy and the OpenWeatherMap API I set out to answer that question by running analyses on the relationships between latitude and temperature, humidity, cloudiness, and wind speed. 
 I seperated it out even further by northern and southern hemispheres to conclude the following analyses:
 
 As expected the northern hemisphere shows a clear connection with colder tempertures the higher the latitude as it is farthest from the equator. The southern hemisphere shows higher temperatures closer to the equator or 0 latitude.
